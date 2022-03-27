@@ -120,9 +120,13 @@ a:hover {
 }
 
 .top-cloud {
+  border-radius: 100%;
   position: absolute;
-  right: 300px;
+  right: 250px;
   top: 40px;
+  width: 100px;
+    height: 130px;
+
 }
 
 .bottom-cloud {
