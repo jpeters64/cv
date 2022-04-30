@@ -8,7 +8,7 @@ body {
 h1 {
   color: #66BFBF;
   font-size: 5.625rem;
-  margin: 50px auto 0 auto;
+  margin: 10px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 
@@ -57,6 +57,7 @@ a{
 a:hover {
   color: #EAF6F6;
 }
+
 
 .top-container {
   background-color: #E4F9F5;
@@ -119,11 +120,21 @@ a:hover {
   padding: 20px 0;
 }
 
+/* Features Section
 .top-cloud {
   border-radius: 100%;
   position: absolute;
   right: 250px;
   top: 40px;
+  width: 100px;
+    height: 130px;
+right: 20%;
+  top: 10%;
+}
+*/
+
+.top-cloud {
+  border-radius: 100%;
   width: 100px;
     height: 130px;
 
